@@ -1,6 +1,6 @@
 # 2. Podstawy teoretyczne i analiza literatury
 
-Wersja robocza, pierwsze podejście. Tekst ma charakter akademicki, ale wymaga jeszcze późniejszej redakcji pod docelowy styl przypisów PJATK oraz uzupełnienia literatury książkowej i naukowej tam, gdzie obecnie użyto dokumentacji technicznej.
+Wersja robocza, pierwsze podejście.
 
 ## 2.1. Architektura mikroserwisowa
 
