@@ -2,9 +2,7 @@
 
 ## Temat
 
-**"Projekt, implementacja i ewaluacja serwera Model Context Protocol do wspomaganej przez LLM analizy logów w systemach mikroserwisowych"**
-
-Temat został doprecyzowany względem pierwotnej wersji, aby poza implementacją wyraźnie obejmował część analityczną i ewaluacyjną. Dzięki temu praca nie sprowadza się tylko do opisu stworzonego narzędzia, lecz bada przydatność MCP jako warstwy integracyjnej między systemem observability a asystentem AI.
+**"Projekt i implementacja serwera MCP do analizy logów w systemach mikroserwisowych"**
 
 ---
 
@@ -288,7 +286,7 @@ Ten rozdział zastępuje wcześniejszą "Prezentację rozwiązania". Demonstracj
   - porównanie z alternatywnymi podejściami;
   - ograniczenia ważności wniosków.
 
-### 7. Podsumowanie (~3 strony)
+### 7. Zakończenie (~3 strony)
 
 - Osiągnięte cele
 - Odpowiedzi na pytania badawcze
